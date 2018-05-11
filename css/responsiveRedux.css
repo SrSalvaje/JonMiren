@@ -1,0 +1,45 @@
+/*350*/
+@media screen and (min-width:350px){
+    /*header*/
+    #title{
+        font-size: 3.3em;
+    }
+    
+    /*hero*/
+    #hero_banner{
+        padding-top: 20px
+    }
+}
+
+/*400px*/
+@media screen and (min-width:400px){
+    /*header*/
+    #logo_box{
+        width: 20%;
+    }
+    
+    #title_box{
+        width: 80%;
+    }
+    
+    #logo{
+        max-width: 100px;
+    }
+    
+    /*hero*/
+    #hero_banner{
+        font-size:1em;
+        padding-top: 25px;
+        height: 40%;
+    }
+    
+/*featured*/
+    .banners{
+        padding-top: 5px;
+    }
+    
+    #portfolio_title_box{
+        font-size: 1.2em;
+    } 
+}
+
