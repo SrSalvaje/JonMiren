@@ -43,3 +43,34 @@
     } 
 }
 
+/*500px*/
+@media screen and (min-width:500px){
+    /*header*/
+    #title{
+        font-size: 4em;
+    }
+    
+    /*Navmenu*/
+    .link_cont{
+        padding-top: 20px;
+        padding-bottom: 20px; 
+    }
+    
+    .sidenav a{
+        font-size:35px;
+    }
+    
+    .sidenav .closebtn{
+        font-size: 60px;
+    }
+    
+    /*Featured*/
+    .banners h3{
+        font-size:1.4em;
+    }
+   
+    .footer{
+        font-size: 1em;
+    }
+}
+
