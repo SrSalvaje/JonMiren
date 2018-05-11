@@ -119,3 +119,20 @@
         font-size: 1.2em;
     }
 }
+/*900px*/
+@media screen and (min-width:900px){
+    /*hero*/
+    
+        #hero_banner{
+            padding-top: 38px;
+        }
+    /*featured*/
+         #cont2{
+            grid-column:4/10;
+            grid-row: 4/8;
+        }
+        #cont3{
+            grid-column:6/10;
+            grid-row:7/11
+        }
+    }
