@@ -199,3 +199,15 @@
         font-size: 1.3em;
     }
 }
+/*1500px*/
+@media screen and (min-width:1500px){
+    .grid{
+        display: grid;
+        grid-template-columns:0.5fr 400px 1fr 400px 1fr 400px 0.5fr; 
+        grid-template-rows: 200px 266px 200px;   
+        } 
+    
+    #hero_image{
+        height:600px;
+    }
+}
