@@ -199,7 +199,6 @@
         font-size: 1.3em;
     }
 }
-
     /*1500px*/
     @media screen and (min-width:1500px){
         .grid{
@@ -211,5 +210,15 @@
         #hero_image{
             height:600px;
         }
+}
+  /*1700*/
+  @media screen and (min-width:1700px) {
+    #hero_image{
+        max-width: 100%;
+        max-height:100%;
+    } 
+    /*footer*/
+    .footer{
+        font-size: 1.5em;
     }
-        
+}   
