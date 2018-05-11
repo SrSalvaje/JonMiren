@@ -143,3 +143,21 @@ Main
 *
 *
 */
+#header{
+    background: linear-gradient(to left, #076585, #fff); 
+    box-sizing: border-box;
+    border-bottom: solid;
+    border-width: 1px;
+    align-items: baseline;
+}
+
+#logo_box{
+    width: 20%;
+    
+}
+
+#logo{
+   max-width: 100%;
+   height: auto;
+    
+}
