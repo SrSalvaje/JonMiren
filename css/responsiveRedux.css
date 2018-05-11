@@ -73,4 +73,29 @@
         font-size: 1em;
     }
 }
-
+/*700px*/
+@media screen and (min-width:700px){
+    /*Header*/
+    #title{
+        font-size: 4em;
+        /*top:20px;*/
+    }
+  
+    #hero_banner{
+        font-size: 1.5em;
+        }
+        /*Featured Work*/
+    #portfolio_title_box{
+            font-size: 1.8em;
+        }
+    .banners{
+            font-size: 1.4em
+        }
+     #cont2{
+            grid-column:4/10;
+    }
+    #cont3{
+            grid-column:5/10;
+            grid-row:6/11
+    }  
+}
