@@ -261,3 +261,26 @@ grid positions and individual changes
     grid-row: 6/11;
     z-index: 1;
 }
+/*
+*
+*
+*
+-Footer
+*
+*
+*
+**/
+.footer{
+    width:100%;
+    color: darkslategrey;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    border-top: solid;
+    border-width: 1px;
+    font-size: 0.7em;
+    }
+    
+    .footer a{
+        color: darkslategrey;
+    }
