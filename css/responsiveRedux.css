@@ -99,3 +99,23 @@
             grid-row:6/11
     }  
 }
+/*800px*/
+@media screen and (min-width:800px){
+    /*hero*/
+
+    #hero_banner{
+        font-size:1.7em;
+        padding-top:30px;
+    }
+    /*menu*/
+    .hammenu span{
+    font-size:50px;
+    }
+    .hammenu{
+         margin-bottom: 20px;
+    }
+    /*footer*/
+    .footer{
+        font-size: 1.2em;
+    }
+}
